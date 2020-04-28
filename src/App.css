@@ -1,3 +1,24 @@
+@font-face {
+  font-family: 'got';
+  src: local('got'), url('assets/fonts/got.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'got1';
+  src: local('got'), url('assets/fonts/got1.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'got01';
+  src: local('got01'), url('assets/fonts/got01.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'got6';
+  src: local('got6'), url(assets/fonts/got6.ttf) format('truetype');
+}
+
+
 .App {
   text-align: center;
 }
@@ -36,3 +57,4 @@
     transform: rotate(360deg);
   }
 }
+
